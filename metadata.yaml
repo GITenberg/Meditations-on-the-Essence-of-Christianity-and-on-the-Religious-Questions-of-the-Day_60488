@@ -1,0 +1,36 @@
+_repo: Meditations-on-the-Essence-of-Christianity-and-on-the-Religious-Questions-of-the-Day_60488
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guizot, François
+    aliases:
+    - Guizot, Francois Pierre Guillaume
+    - Guizot, M. (François)
+    - Guizot, Monsieur (François)
+    - Guisot, M. (François)
+    - Guizot, François Pierre Guillaume
+    birthdate: 1787
+    deathdate: 1874
+    gutenberg_agent_id: '5686'
+    url: http://www.gutenberg.org/2009/agents/5686
+    wikipedia:
+    - https://en.wikipedia.org/wiki/François_Guizot
+    - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Guizot
+description: 'Original French title: Méditations sur l''essence de la religion chrétienne'
+gutenberg_issued: '2019-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60488'
+  lccn: tmp82066517
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christianity -- Essence, genius, nature'
+- !lcsh 'Philosophy and religion'
+- !lcc 'BR'
+- GITenberg
+title: Meditations on the Essence of Christianity, and on the Religious Questions
+  of the Day.
+url: http://www.gutenberg.org/ebooks/60488
